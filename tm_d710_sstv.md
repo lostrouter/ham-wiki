@@ -36,4 +36,6 @@ TODO
 
 TODO
 
-### Check output levels
+## Check output levels
+
+For this step a dummy load and an HT can be used. If a dummy load is not available, set the radio to low power TX and still use an HT to receive. An SDR or another ham station could be used to check levels as well.
