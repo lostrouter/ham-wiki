@@ -8,11 +8,11 @@ General setup
 
 ## Configuring data mode settings on the radio
 
-You can use either the A or B band of the radio for use with SSTV software. For this guide it will use the A band. Under the AUX menu
+Either the A or B band of the radio can be used with SSTV software. For this guide it will use the A band. Under the AUX menu
 - set 918 to `A-Band`
 - set 920 to `19200 bps`
 
-if the use of APRS is desired while working SSTV, the internal data band will need to changed
+If the use of APRS is desired while working SSTV, the internal data band will need to changed
 - set 930 to `B-Band`
 
 ## Put the radio into echolink mode
