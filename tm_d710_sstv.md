@@ -5,6 +5,7 @@ General setup
 - put the radio into echolink mode
 - tune to an open frequency
 - setup SSTV software
+- transmit and check output levels
 
 ## Configuring data mode settings on the radio
 
@@ -23,6 +24,8 @@ Putting the radio into echolink mode is required in order to use the `DATA` port
 
 According to a few internet sources, 145.500, 145.600, 430.950 are SSTV calling frequencies in the US, but any open frequency space will work. 
 
+Set the frequency on the A-Band (left side) of the radio, and make sure that it is also set for `PTT` and `CTRL`. When the computer sends a ptt signal it will begin transmitting on the side that has PTT and CTRL set.
+
 ## Setting up SSTV software
 
 ### QSSTV on a raspberry pi
@@ -32,3 +35,5 @@ TODO
 ### MMSSTV and YONIQ on Windows
 
 TODO
+
+### Check output levels
