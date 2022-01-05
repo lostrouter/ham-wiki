@@ -21,7 +21,7 @@ Putting the radio into echolink mode is required in order to use the `DATA` port
 
 ## Tune to an open frequency
 
-According to a few internet sources, 145.500 and 145.600 are SSTV calling frequencies, but any open frequency space will work. 
+According to a few internet sources, 145.500, 145.600, 430.950 are SSTV calling frequencies in the US, but any open frequency space will work. 
 
 ## Setting up SSTV software
 
